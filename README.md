@@ -8,4 +8,4 @@ You can check out my talks and presentations here:
 - [PyArrow talk slides on FOSDEM](https://alenkaf.github.io/talks/FOSDEM_2025_PyArrow.pdf) (with Rok Mihevc)
 
 2024
-- [Arrow dashboard talk on posit::conf together](https://alenkaf.github.io/talks/PositConf_2024_Arrow_dash.pdf) (with Nic Crane)
+- [Arrow dashboard talk on posit::conf](https://alenkaf.github.io/talks/PositConf_2024_Arrow_dash.pdf) (with Nic Crane)
