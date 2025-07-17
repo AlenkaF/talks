@@ -1,4 +1,4 @@
-# My Talks
+# Talks
 
 You can check out my talks and presentations here:
 
