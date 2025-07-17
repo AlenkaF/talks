@@ -4,6 +4,9 @@ You can check out my talks and presentations here:
 
 ## 2025
 
+### EuroPython
+- [Sharing is caring: Efficient Data Exchange with pyarrow - slides](https://alenkaf.github.io/talks/EuroPython_2025_Sharing_is_caring.pdf) (with Raúl Cumplido and Rok Mihevc)
+
 ### FOSDEM
 - [Apache Arrow Tensor Arrays - slides](https://alenkaf.github.io/talks/FOSDEM_2025_tensor_extension.pdf) (with Rok Mihevc)
 - [Apache Arrow Tensor Arrays - video](https://ftp.fau.de/fosdem/2025/ub5132/fosdem-2025-6096-apache-arrow-tensor-arrays-an-approach-for-storing-tensor-data.av1.webm) (with Rok Mihevc)
