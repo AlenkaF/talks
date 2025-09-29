@@ -1,0 +1,21 @@
+.subtitle {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.6em;
+  color: #2c3e50; /* A dark gray-blue */
+}
+
+.spotlight {
+  position: absolute;
+  top: 70%;              /* center vertically */
+  left: 50%;             /* center horizontally */
+  transform: translate(-50%, -50%);
+  width: 70%;
+  text-align: center;
+  font-size: 300%;
+  font-weight: bold;
+  color: black;
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 0.5em 1em;
+  border-radius: 0.3em;
+  z-index: 10;
+}
