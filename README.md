@@ -4,8 +4,12 @@ You can check out my talks and presentations here:
 
 ## 2025
 
+### PyData Paris keynote
+- [You Don’t Have to Be an Expert: Stories from the Open Source Frontlines - slides](https://alenkaf.github.io/talks/PyData_Paris_2025_keynote.pdf)
+
 ### EuroPython
 - [Sharing is caring: Efficient Data Exchange with pyarrow - slides](https://alenkaf.github.io/talks/EuroPython_2025_Sharing_is_caring.pdf) (with Raúl Cumplido and Rok Mihevc)
+- [Sharing is caring: Efficient Data Exchange with pyarrow - video](https://youtu.be/EG7q_6OmrK4?si=WBmepgy3iBvxBj_S) (with Raúl Cumplido and Rok Mihevc)
 
 ### FOSDEM
 - [Apache Arrow Tensor Arrays - slides](https://alenkaf.github.io/talks/FOSDEM_2025_tensor_extension.pdf) (with Rok Mihevc)
