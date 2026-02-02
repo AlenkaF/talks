@@ -6,6 +6,7 @@ You can check out my talks and presentations here:
 
 ### PyData Paris keynote
 - [You Don’t Have to Be an Expert: Stories from the Open Source Frontlines - slides](https://alenkaf.github.io/talks/PyData_Paris_2025_keynote.pdf)
+- [You Don’t Have to Be an Expert: Stories from the Open Source Frontlines - video](https://youtu.be/6YoLlcF7cKM?si=rMMDTE2N734hXy20)
 
 ### EuroPython
 - [Sharing is caring: Efficient Data Exchange with pyarrow - slides](https://alenkaf.github.io/talks/EuroPython_2025_Sharing_is_caring.pdf) (with Raúl Cumplido and Rok Mihevc)
