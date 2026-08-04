@@ -2,6 +2,14 @@
 
 You can check out my talks and presentations here:
 
+## 2026
+
+### EuroPython
+- [Stop Guessing, Start Understanding: How Arrow and Pandas Exchange Data - slides](https://alenkaf.github.io/talks/EuroPython_2026_stop_guessing.pdf)
+- [Stop Guessing, Start Understanding: How Arrow and Pandas Exchange Data - video]()
+
+### PyCon Italia
+
 ## 2025
 
 ### PyData Paris keynote
