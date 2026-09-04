@@ -6,9 +6,10 @@ You can check out my talks and presentations here:
 
 ### EuroPython
 - [Stop Guessing, Start Understanding: How Arrow and Pandas Exchange Data - slides](https://alenkaf.github.io/talks/EuroPython_2026_stop_guessing.pdf) (with Raúl Cumplido)
-- [Stop Guessing, Start Understanding: How Arrow and Pandas Exchange Data - video]() (with Raúl Cumplido)
+- [TBD-video]() (with Raúl Cumplido)
 
 ### PyCon Italia
+- [Understanding the Anatomy of Arrow and Parquet-video](https://youtu.be/XvI7cmOH3BU) (with Raúl Cumplido)
 
 ## 2025
 
